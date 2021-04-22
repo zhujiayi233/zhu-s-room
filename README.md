@@ -1,3 +1,3 @@
 # zhu-s-room
 use for testing 
-\npython study every day
+python study every day
